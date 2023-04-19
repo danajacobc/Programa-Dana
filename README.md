@@ -1,2 +1,2 @@
-# Programa-Dana
-Este es un repositorio de prueba.
+Este proyecto es un ejemplo de como crear un repositorio en github y clonarlo en mi computadora
+
